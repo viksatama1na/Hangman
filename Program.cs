@@ -6,7 +6,7 @@ class HangmanGame
 {
     static string[] DeathAnimationFrames =
     {
-        // Примерно ASCII изкуство за анимация на бесилката
+        
         @"  +---+
       |   |
           |
